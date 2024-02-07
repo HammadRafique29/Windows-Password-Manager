@@ -1,0 +1,4 @@
+mysql-connector-python
+pyQt6
+pyqt6-tools
+ctypes-callable
